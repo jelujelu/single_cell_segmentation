@@ -1,0 +1,14 @@
+bwdist_phasexy20c2cr1s0.tif
+bwdist_phasexy20c2cr1s1.tif
+bwdist_phasexy20c2cr1s10.tif
+bwdist_phasexy20c2cr1s11.tif
+bwdist_phasexy20c2cr1s12.tif
+bwdist_phasexy20c2cr1s13.tif
+bwdist_phasexy20c2cr1s2.tif
+bwdist_phasexy20c2cr1s3.tif
+bwdist_phasexy20c2cr1s4.tif
+bwdist_phasexy20c2cr1s5.tif
+bwdist_phasexy20c2cr1s6.tif
+bwdist_phasexy20c2cr1s7.tif
+bwdist_phasexy20c2cr1s8.tif
+bwdist_phasexy20c2cr1s9.tif

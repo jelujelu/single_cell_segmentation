@@ -1,0 +1,13 @@
+bwdist_1002t1xy16c2_cropcr1s0.tif
+bwdist_1002t1xy16c2_cropcr1s1.tif
+bwdist_1002t1xy16c2_cropcr1s10.tif
+bwdist_1002t1xy16c2_cropcr1s11.tif
+bwdist_1002t1xy16c2_cropcr1s12.tif
+bwdist_1002t1xy16c2_cropcr1s2.tif
+bwdist_1002t1xy16c2_cropcr1s3.tif
+bwdist_1002t1xy16c2_cropcr1s4.tif
+bwdist_1002t1xy16c2_cropcr1s5.tif
+bwdist_1002t1xy16c2_cropcr1s6.tif
+bwdist_1002t1xy16c2_cropcr1s7.tif
+bwdist_1002t1xy16c2_cropcr1s8.tif
+bwdist_1002t1xy16c2_cropcr1s9.tif

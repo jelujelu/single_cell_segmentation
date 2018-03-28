@@ -1,0 +1,8 @@
+		self.anchor_box_scales = [50, 75, 100]
+
+		self.anchor_box_ratios = [[1, 1], [1, 2], [2, 1]]
+
+		self.train_img_size=256
+		self.im_size = 512
+
+		self.img_mean = 0.74
