@@ -21,8 +21,8 @@ of the original data.
 Second, the Euclidean distance transform data performs much faster and accurately when processed by our modified FCN.
 Output of frcnn_apply.ipynb produces results in bounding box of each detected cell.
 
-Finally, the Euclidean distance transform data and the classification data are input into watershed_boundingbox.ipynb.
-The distance transform data serves as the objects and the classification data serves as the seeds for the watershed
+Finally, the Euclidean distance transform data and the detection data are input into watershed_boundingbox.ipynb.
+The distance transform data serves as the objects and the detection data serves as the seeds for the watershed
 segmentation.
 
 This method simplifies what would be a complicated input for a watershed segmentation task and provides seeds automatically
