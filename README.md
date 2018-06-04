@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 The classification FCN is modified based on the code from  https://github.com/imlab-uiip/keras-segnet
 The faster R-CNN is modified based on the code from  https://github.com/yhenon/keras-frcnn
 
-
-
-=======
+========================================================================================================
 # single_cell_segmentation
 
 This single cell segmentation method is a multistep, sequential method.
