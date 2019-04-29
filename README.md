@@ -1,3 +1,6 @@
+citation link
+https://www.sciencedirect.com/science/article/pii/S0010482519301143
+
 The classification FCN is modified based on the code from  https://github.com/imlab-uiip/keras-segnet
 The faster R-CNN is modified based on the code from  https://github.com/yhenon/keras-frcnn
 
